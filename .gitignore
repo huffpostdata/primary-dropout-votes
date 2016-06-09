@@ -1,0 +1,5 @@
+2008-primary-results/cache/*.html
+2008-primary-results/cache/*.phtml
+*.swp
+node_modules/
+.ipynb_checkpoints/

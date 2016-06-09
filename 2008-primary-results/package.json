@@ -1,0 +1,14 @@
+{
+  "name": "2008-primary-results",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "coffee-script": "^1.10.0",
+    "sync-request": "^3.0.1"
+  }
+}
